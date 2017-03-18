@@ -30,7 +30,7 @@ class ArticlesController < ApplicationController
     render 'new'
   #@article.save
   #redirect_to @article
-end
+  end
 end
 
 def update
